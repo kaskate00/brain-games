@@ -20,6 +20,9 @@ npm link
 
 ```
 node bin/brain-games
+```
+
+```
 make brain-games
 ```
 
@@ -28,11 +31,10 @@ make brain-games
 ```
 
 node bin/brain-even
-
 ```
 
+```
 make brain-even
-
 ```
 
 запускает игру "Калькулятор"
@@ -40,11 +42,10 @@ make brain-even
 ```
 
 node bin/brain-calc
-
 ```
 
+```
 make brain-calc
-
 ```
 
 запускает игру "Наибольший общий делитель"
@@ -52,11 +53,10 @@ make brain-calc
 ```
 
 node bin/brain-gcd
-
 ```
 
+```
 make brain-gcd
-
 ```
 
 запускает игру "Арифметическая прогрессия"
@@ -64,11 +64,10 @@ make brain-gcd
 ```
 
 node bin/brain-progression
-
 ```
 
+```
 make brain-progression
-
 ```
 
 запускает игру "Простое ли число?"
@@ -76,11 +75,10 @@ make brain-progression
 ```
 
 node bin/brain-prime
-
 ```
 
+```
 make brain-prime
-
 ```
 
 ## Игра: "Проверка на четность"
@@ -132,4 +130,7 @@ make brain-prime
 ### Запуск игры: **"brain-prime"**
 
 [![asciicast](https://asciinema.org/a/ptW43GSZzHwVnDcHvdNyms7bO.svg)](https://asciinema.org/a/ptW43GSZzHwVnDcHvdNyms7bO)
+
+```
+
 ```
