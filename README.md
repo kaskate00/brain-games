@@ -1,8 +1,5 @@
 # Проект "Игры разума":
 
-[![Actions Status](https://github.com/Gruf1/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/Gruf1/frontend-project-44/actions)
-<a href="https://codeclimate.com/github/Gruf1/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/5f7f7d0fc690a4b22dc1/maintainability" /></a>
-
 ## Описание проекта
 
 **"Игры разума"** : это проект состоящий из 5 консольных игр, для тренировки вашего мозга. Каждая игра задает по 3 вопроса, на которые нужо дать правильные ответы. Если вы ответили на все вопросы, считается что вы прошли игру. В случае неправильного ответа игра завершится и вам будет предложено попробовать еще раз.
@@ -25,10 +22,18 @@ npm link
 node bin/brain-games
 ```
 
+make brain-games
+
+```
+
 запускает игру "Проверка на чётность"
 
 ```
+
 node bin/brain-even
+
+```
+make brain-even
 ```
 
 запускает игру "Калькулятор"
@@ -37,10 +42,18 @@ node bin/brain-even
 node bin/brain-calc
 ```
 
+make brain-calc
+
+```
+
 запускает игру "Наибольший общий делитель"
 
 ```
+
 node bin/brain-gcd
+
+```
+make brain-gcd
 ```
 
 запускает игру "Арифметическая прогрессия"
@@ -49,10 +62,18 @@ node bin/brain-gcd
 node bin/brain-progression
 ```
 
+make brain-progression
+
+```
+
 запускает игру "Простое ли число?"
 
 ```
+
 node bin/brain-prime
+
+```
+make brain-prime
 ```
 
 ## Игра: "Проверка на четность"
