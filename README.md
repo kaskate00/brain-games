@@ -89,7 +89,7 @@ make brain-prime
 
 ### Запуск игры: **"brain-even"**
 
-[![asciicast](https://asciinema.org/connect/99964844-ffe8-4f58-b599-4726e465fcfc.svg)](https://asciinema.org/connect/99964844-ffe8-4f58-b599-4726e465fcfc)
+[![asciicast](https://asciinema.org/a/dJkfcodHpqb8BVqWArDXIPhZd.svg)](https://asciinema.org/a/dJkfcodHpqb8BVqWArDXIPhZd)
 
 ## Игра: "Калькулятор"
 
