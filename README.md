@@ -99,7 +99,7 @@ make brain-prime
 
 ### Запуск игры: **"brain-calc"**
 
-[![asciicast](https://asciinema.org/a/skzUhVffVHj2ALjZfIEVgEaQW.svg)](https://asciinema.org/a/skzUhVffVHj2ALjZfIEVgEaQW)
+[![asciicast](https://asciinema.org/a/Y9ogFoJwcLc0S2eACTUQjgCIu.svg)](https://asciinema.org/a/Y9ogFoJwcLc0S2eACTUQjgCIu)
 
 ## Игра: "НОД"
 
@@ -109,7 +109,7 @@ make brain-prime
 
 ### Запуск игры: **"brain-gcd"**
 
-[![asciicast](https://asciinema.org/a/rWCMyJdfVcFfjxa2GrMmQ9KVe.svg)](https://asciinema.org/a/rWCMyJdfVcFfjxa2GrMmQ9KVe)
+[![asciicast](https://asciinema.org/a/tK4mmpQ1lrao5Heyt2K6rJeHP.svg)](https://asciinema.org/a/tK4mmpQ1lrao5Heyt2K6rJeHP)
 
 ## Игра: "Арифметическая прогрессия"
 
@@ -119,7 +119,7 @@ make brain-prime
 
 ### Запуск игры: **"brain-progression"**
 
-[![asciicast](https://asciinema.org/a/kjsEAMHoUedjHcEbK5GOI0f8y.svg)](https://asciinema.org/a/kjsEAMHoUedjHcEbK5GOI0f8y)
+[![asciicast](https://asciinema.org/a/ewU4ckNoVvm2sJRiimWZ73KYL.svg)](https://asciinema.org/a/ewU4ckNoVvm2sJRiimWZ73KYL)
 
 ## Игра: "Простое ли число?"
 
@@ -129,7 +129,7 @@ make brain-prime
 
 ### Запуск игры: **"brain-prime"**
 
-[![asciicast](https://asciinema.org/a/ptW43GSZzHwVnDcHvdNyms7bO.svg)](https://asciinema.org/a/ptW43GSZzHwVnDcHvdNyms7bO)
+[![asciicast](https://asciinema.org/a/qi4osBLV5b6yrSQ9dGmVMvJvJ.svg)](https://asciinema.org/a/qi4osBLV5b6yrSQ9dGmVMvJvJ)
 
 ```
 
